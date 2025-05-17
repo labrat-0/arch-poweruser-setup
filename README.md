@@ -27,5 +27,5 @@ Inspired by ThePrimeagen and PewDiepie's setups 🙏 thx to both for your inspir
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/arch-poweruser-setup.git
+git clone https://github.com/labrat-0/arch-poweruser-setup.git
 cd arch-poweruser-setup
