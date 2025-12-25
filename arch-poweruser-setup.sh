@@ -1,6 +1,6 @@
 #!/bin/bash
 # Arch Linux Full Rice & Setup Script (Hyprland + WiFi + Desktop + Tokyo Night Theme)
-# Author: Mick Donahue (ratbyte.dev)
+# Author: Mick | labrat_
 
 set -euo pipefail
 
